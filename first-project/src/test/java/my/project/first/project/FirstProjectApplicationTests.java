@@ -9,5 +9,8 @@ class FirstProjectApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	
+public FirstProjectApplicationTests() {
+	
+}
 }
